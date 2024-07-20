@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+Social Media Web App Made using Django Framework, Python and SQL Lite
